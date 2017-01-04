@@ -1,20 +1,32 @@
+body {
+  background-color: grey;
+}
+
 h1 {
   text-align: center;
+  color: green;
 }
 
 .before {
   float:left;
   width: 400px;
   margin: 25px;
+  color: darkred;
 }
 
 .after {
   float: left;
   width: 400px;
   margin: 25px;
+  color: darkblue;
 }
 
 img {
   float: right;
   width: 200px;
+  border: groove 15px forestgreen;
+}
+
+.para {
+  padding: 5px;
 }
