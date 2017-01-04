@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.before {
+  float:left;
+  width: 400px;
+  margin: 25px;
+}
+
+.after {
+  float: left;
+  width: 400px;
+  margin: 25px;
+}
+
+img {
+  float: right;
+  width: 200px;
+}
