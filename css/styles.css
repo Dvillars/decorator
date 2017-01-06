@@ -1,5 +1,6 @@
 body {
-  background-color: grey;
+  background-color: black;
+  text-shadow: 1px 1px grey;
 }
 
 h1 {
@@ -24,7 +25,8 @@ h1 {
 img {
   float: right;
   width: 200px;
-  border: groove 15px forestgreen;
+  border: 10px forestgreen double;
+  box-shadow: 1px 1px grey;
 }
 
 .para {
